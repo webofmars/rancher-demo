@@ -14,8 +14,8 @@ spec:
         image: monachus/rancher-demo:latest
         resources:
           requests:
-            cpu: "500m"
-            memory: "10Mi"
+            cpu: "3m"
+            memory: "2Mi"
           limits:
             cpu: "500m"
             memory: "10Mi"
